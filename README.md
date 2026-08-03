@@ -5,5 +5,6 @@ MySQL and MariaDB desktop client.
 
 ```bash
 brew tap DavLagoHern/lakedb
+brew trust DavLagoHern/lakedb
 brew install --cask lakedb
 ```
