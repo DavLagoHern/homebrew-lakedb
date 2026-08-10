@@ -1,7 +1,7 @@
 # homebrew-lakedb
 
-Homebrew tap for [LakeDB](https://github.com/DavLagoHern/LakeDB), a focused
-MySQL and MariaDB desktop client.
+Homebrew tap for [LakeDB](https://github.com/DavLagoHern/LakeDB), a local-first,
+multi-database desktop client.
 
 ```bash
 brew tap DavLagoHern/lakedb
