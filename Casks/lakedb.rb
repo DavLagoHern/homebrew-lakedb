@@ -1,6 +1,6 @@
 cask "lakedb" do
-  version "1.0.0-beta.5.3.1"
-  sha256 "b015fb3f30ba0e1c217b39d34e61d8886b374c61979debd2b6caad3d0da7e193"
+  version "1.0.0-beta.5.4"
+  sha256 "5f917a792defaaebc365025fec8279ad7709a29dcf795ab591ae7d8cee3d003e"
 
   url "https://github.com/DavLagoHern/LakeDB/releases/download/v#{version}/LakeDB-#{version}-mac-arm64.dmg",
       verified: "github.com/DavLagoHern/LakeDB/"
